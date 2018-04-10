@@ -1,0 +1,8 @@
+[package]
+name = "ped_com"
+version = "0.1.0"
+authors = ["Alex Ledger <alex.ledger@ll.mit.edu>"]
+
+[dependencies]
+curve25519-dalek = "^0.16"
+rand = { version = "0.4", optional = false }
