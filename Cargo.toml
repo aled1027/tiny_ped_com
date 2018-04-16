@@ -1,9 +1,9 @@
 [package]
 name = "tiny_ped_com"
 version = "0.1.0"
-license = "MIT"
-authors = ["Alex Ledger <alex@alexledger.net"]
+authors = ["Alex Ledger <a.led1027@gmail.com"]
 description = "A small Rust library for Pedersen commitments over elliptic curves."
+license = "MIT"
 
 [dependencies]
 curve25519-dalek = "^0.16"
